@@ -52,6 +52,7 @@ static void timer12_start(void){
 
 int main(void)
 {
+	//git test
 
     halInit();
     chSysInit();
